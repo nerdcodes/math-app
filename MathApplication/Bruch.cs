@@ -15,11 +15,11 @@ namespace MathApplication
         {
             get
             {
-                return zaehler;
+                return this.zaehler;
             }
             set
             {
-                zaehler = value;
+                this.zaehler = value;
             }
         }
 
@@ -43,7 +43,7 @@ namespace MathApplication
             Console.Write("Zaehler: ");
             zaehler = Convert.ToInt32(Console.ReadLine());
             Console.Write("Nenner : ");
-            Nenner = Convert.ToInt32(Console.ReadLine());
+            nenner = Convert.ToInt32(Console.ReadLine());
         }
 
         public void Zeige()
