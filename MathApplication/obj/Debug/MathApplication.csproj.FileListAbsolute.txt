@@ -1,1 +1,6 @@
 C:\Users\Maximilian\Desktop\Code\Projects\MathApplication\MathApplication\bin\Debug\MathApplication.exe.config
+C:\Users\Maximilian\Desktop\Code\Projects\MathApplication\MathApplication\bin\Debug\MathApplication.exe
+C:\Users\Maximilian\Desktop\Code\Projects\MathApplication\MathApplication\bin\Debug\MathApplication.pdb
+C:\Users\Maximilian\Desktop\Code\Projects\MathApplication\MathApplication\obj\Debug\MathApplication.csprojResolveAssemblyReference.cache
+C:\Users\Maximilian\Desktop\Code\Projects\MathApplication\MathApplication\obj\Debug\MathApplication.exe
+C:\Users\Maximilian\Desktop\Code\Projects\MathApplication\MathApplication\obj\Debug\MathApplication.pdb
